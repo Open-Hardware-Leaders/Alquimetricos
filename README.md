@@ -5,6 +5,31 @@ A simple set of hexagon and pentagon pieces allows to build geodesic structures 
 
 ![alt text](http://alquimetricos.com/wp-content/uploads/2020/04/2BB3A146-138D-444C-BC3C-2ABF2E51488E-1024x768.jpeg)
 
+## Main Links
+* www.alquimetricos.com (EN, SP, PT)
+* www.alquibots.cc (Portuguese)
+ 
+### Social Media:
+* http://facebook.com/alquimetricos
+* http://instagram.com/alquimetricos
+* https://www.linkedin.com/company/alquimetricos 
+* https://www.youtube.com/playlist?list=PLSP-2hZtKQOVPhtqFtWud9ApCXhB5Nklm
+* https://wikifactory.com/+alquimetricos
+
+### Repos
+* https://github.com/alquimetricos
+* https://distributeddesign.eu/talent/alquimetricos/ 
+* https://www.oercommons.org/authoring/28954-planificaci%C3%B3n-pedag%C3%B3gica-taller-alquim%C3%A9tricos
+* https://www.thingiverse.com/alquimetricos/
+
+### Contacts:
+* alquimetricos@gmail.com
+* Whatsapp/Telegram: +55-21-99395-0382
+* Riot: @alquimetricos:matrix.org
+* Wechat: wxid_cp215hokok6622
+
+
+
 ## Zero cost STEAM toys
 Alquimétricos is a collection of open source didactic toys: building blocks to mount structures and learn-while-playing about geometry, maths, architecture, mechanics, physics, chemistry, and much more. The initiative is focused on the design of DIY educational materials which are meant to be produced using a wide range of procedures, from ultra-low-cost-low-tech tool set (scissors and nails) to high-end-FabLab-standards (laser cutter, CNC milling, 3D printing), using an equally wide ranged material sort, including recycled packaging plastics, rubbers, cloths and cardboard composites throughout textile-embedded polymers, organic fibers or even lab-harvested fungus. Alquimétricos are meant to play, learn and share.
 
