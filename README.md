@@ -1,6 +1,6 @@
 # Alquimetricos Connectors
 
-Alquimétricos DIY flexible connectors are a simple but powerfull STEAM educational resource targeted specially for vulnerable communities
+Alquimétricos DIY flexible connectors are a simple but powerful STEAM educational resource targeted specially for vulnerable communities
 A simple set of hexagon and pentagon pieces allows to build geodesic structures any anything else you can imagine. 
 
 ![alt text](http://alquimetricos.com/wp-content/uploads/2020/04/2BB3A146-138D-444C-BC3C-2ABF2E51488E-1024x768.jpeg)
