@@ -2,7 +2,7 @@
 name: 'Content unit production '
 about: 'Content module production '
 title: 'Unit # production'
-labels: ''
+labels: Content unit
 assignees: ''
 
 ---
